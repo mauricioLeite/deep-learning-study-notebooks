@@ -12,5 +12,7 @@
 
 /notebooks/*.pt
 /notebooks/*.pth
+/notebooks/parasites.yaml
+/parasites.yaml
 
 /notebooks/housing/
