@@ -1,0 +1,16 @@
+/datasets/
+/images/
+/figs/
+
+**/.ipynb_checkpoints/
+**/.Trash-*/
+/notebooks/figs/
+/notebooks/results/
+/notebooks/runs/
+/notebooks/ground_truth_visualizations/
+/notebooks/output_visualizations/
+
+/notebooks/*.pt
+/notebooks/*.pth
+
+/notebooks/housing/
